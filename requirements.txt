@@ -132,7 +132,6 @@ tinycss2==1.4.0
 toml==0.10.2
 tornado==6.4.2
 traitlets==5.14.3
-python-dateutil>=2.8.2
 typing_extensions==4.12.2
 tzdata==2023.3
 unicodedata2==15.0.0
