@@ -1,0 +1,114 @@
+primary_genre,genre_group
+indie-pop,Pop
+synth-pop,Pop
+power-pop,Pop
+pop,Pop
+j-pop,Pop
+k-pop,Pop
+cantopop,Pop
+mandopop,Pop
+singer-songwriter,Singer-Songwriter/Folk
+folk,Singer-Songwriter/Folk
+bluegrass,Singer-Songwriter/Folk
+country,Singer-Songwriter/Folk
+rockabilly,Singer-Songwriter/Folk
+honky-tonk,Singer-Songwriter/Folk
+indie,Singer-Songwriter/Folk
+rock,Rock
+alt-rock,Rock
+punk,Rock
+punk-rock,Rock
+emo,Rock
+psych-rock,Rock
+grunge,Rock
+j-rock,Rock
+rock-n-roll,Rock
+hard-rock,Rock
+metal,Metal
+heavy-metal,Metal
+death-metal,Metal
+black-metal,Metal
+metalcore,Metal
+hardcore,Metal
+grindcore,Metal
+goth,Metal
+house,House & Techno
+deep-house,House & Techno
+progressive-house,House & Techno
+chicago-house,House & Techno
+detroit-techno,House & Techno
+techno,House & Techno
+minimal-techno,House & Techno
+hardstyle,House & Techno
+dubstep,Bass Music
+drum-and-bass,Bass Music
+breakbeat,Bass Music
+trance,Trance
+electronic,General Electronic
+edm,General Electronic
+j-dance,General Electronic
+electro,General Electronic
+disco,Disco and Club Music
+club,Disco and Club Music
+party,Disco and Club Music
+dance,Disco and Club Music
+jazz,Jazz/Blues
+blues,Jazz/Blues
+gospel,Jazz/Blues
+soul,Jazz/Blues
+salsa,Latin
+samba,Latin
+tango,Latin
+mpb,Latin
+latino,Latin
+brazil,Latin
+pagode,Latin
+forro,Latin
+sertanejo,Latin
+reggaeton,Latin
+latin,Latin
+reggae,Reggae/Dub
+dub,Reggae/Dub
+dancehall,Reggae/Dub
+ska,Reggae/Dub
+hip-hop,Hip-Hop/R&B/Funk
+r-n-b,Hip-Hop/R&B/Funk
+funk,Hip-Hop/R&B/Funk
+groove,Hip-Hop/R&B/Funk
+ambient,Experimental/Ambient
+idm,Experimental/Ambient
+trip-hop,Experimental/Ambient
+industrial,Experimental/Ambient
+alternative,Experimental/Ambient
+chill,Experimental/Ambient
+garage,Experimental/Ambient
+sad,Experimental/Ambient
+romance,Experimental/Ambient
+happy,Experimental/Ambient
+acoustic,Instrumental
+piano,Instrumental
+study,Instrumental
+sleep,Instrumental
+guitar,Instrumental
+classical,Classical
+opera,Classical
+new-age,Classical
+afrobeat,World
+turkish,World
+indian,World
+iranian,World
+swedish,World
+french,World
+german,World
+world-music,World
+malay,World
+spanish,World
+british,World
+disney,Niche
+pop-film,Niche
+comedy,Niche
+show-tunes,Niche
+children,Niche
+kids,Niche
+anime,Niche
+j-idol,Niche
