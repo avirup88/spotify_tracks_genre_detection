@@ -19,6 +19,8 @@ This project provides an interactive application for predicting the genre of son
    - Implements ensemble models with optimized hyperparameters.
    - Saves trained models, scalers, and encoders.
 
+   **Important:** This script must be executed first to generate the model file required by the Streamlit app.
+
 2. **`genre_prediction.py`**:
    - Defines genre prediction logic.
    - Encodes features, scales data, and integrates Spotify data.
@@ -76,3 +78,4 @@ Check out a quick video or GIF showcasing the app's functionality (add link or i
 - Incorporate real-time Spotify API search for song metadata.
 - Enhance UI with additional visualizations.
 - Expand genre mappings for global datasets.
+
